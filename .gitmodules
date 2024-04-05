@@ -1,0 +1,3 @@
+[submodule "deps/sdk"]
+	path = deps/sdk
+	url = https://github.com/bitwarden/sdk.git
