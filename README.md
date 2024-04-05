@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/samuelba/bitwarden_exporter_cli)
+[![ci](https://github.com/samuelba/bitwarden_exporter_cli/actions/workflows/ci.yml/badge.svg)](https://github.com/samuelba/bitwarden_exporter_cli/actions/workflows/ci.yml)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/samuelba/bitwarden_exporter_cli)
+
 # Bitwarden Exporter CLI
 
 This is a simple CLI tool to generate an encrypted Bitwarden JSON export file that can be imported into a Bitwarden vault.
