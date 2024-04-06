@@ -145,6 +145,7 @@ dependencies = [
  "clap",
  "serde",
  "serde_json",
+ "thiserror",
  "uuid",
 ]
 
