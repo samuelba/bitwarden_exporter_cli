@@ -6,6 +6,8 @@
 
 This is a simple CLI tool to generate an encrypted Bitwarden JSON export file that can be imported into a Bitwarden vault.
 
+The repo contains a submodule to the [Bitwarden SDK](https://github.com/bitwarden/sdk). Initialize it with `git submodule update --init --recursive`.
+
 ## Usage
 
 ```bash
